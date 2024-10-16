@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Gesture Volume Control Using OpenCV and MediaPipe</h1>
-  <img alt="output" src="C:\Users\Pragati\OneDrive\Pictures\Screenshots\Screenshot 2024-10-14 094341.png" />
+  <img alt="output" src="file:///C:/Users/Pragati/OneDrive/Pictures/Screenshots/Screenshot%202024-10-14%20094341.png" />
  </div>
 
 # Gesture-Volume-Controller
