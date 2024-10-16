@@ -1,9 +1,3 @@
-
-<div align="center">
-  <h1>Gesture Volume Control Using OpenCV and MediaPipe</h1>
-  <img alt="output" src="file:///C:/Users/Pragati/OneDrive/Pictures/Screenshots/Screenshot%202024-10-14%20094341.png" />
- </div>
-
 # Gesture-Volume-Controller
 The **Gesture Volume Controller** is an advanced machine learning project that allows users to adjust their device’s volume by making simple hand gestures in front of a camera, eliminating the need for physical volume buttons. By detecting the relative positions of the index finger and thumb, the project calculates the distance between them and adjusts the volume accordingly, making for a seamless and touch-free volume control experience.
 
