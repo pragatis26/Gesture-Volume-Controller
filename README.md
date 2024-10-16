@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Gesture Volume Control Using OpenCV and MediaPipe</h1>
-  <img alt="output" src="images/output.gif" />
+  <img alt="output" src="C:\Users\Pragati\Videos\Captures\Img 2024-10-16 20-20-36.mp4" />
  </div>
 
 # Gesture-Volume-Controller
