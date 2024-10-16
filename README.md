@@ -1,3 +1,4 @@
+"C:\Users\Pragati\OneDrive\Pictures\Screenshots\Screenshot 2024-10-14 094341.png"
 # Gesture-Volume-Controller
 The **Gesture Volume Controller** is an advanced machine learning project that allows users to adjust their device’s volume by making simple hand gestures in front of a camera, eliminating the need for physical volume buttons. By detecting the relative positions of the index finger and thumb, the project calculates the distance between them and adjusts the volume accordingly, making for a seamless and touch-free volume control experience.
 
